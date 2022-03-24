@@ -2,5 +2,9 @@ Brashno x 2
 Leb x 4
 Voda x 4
 Sok x 6
+<<<<<<< HEAD
 Cokolada x 2
 Cips x4
+=======
+Cokolada x 2
+>>>>>>> 3e7221146237cfacadc31e82ee86665b94165237
