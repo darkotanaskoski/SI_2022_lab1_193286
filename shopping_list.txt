@@ -1,5 +1,5 @@
-Brashno
-Leb
-Voda
-Sok
-Cokolada
+Brashno x 2
+Leb x 3
+Voda x 4
+Sok x 5
+Cokolada x 6
