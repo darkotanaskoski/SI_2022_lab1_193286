@@ -1,5 +1,6 @@
 Brashno x 2
-Leb x 3
+Leb x 4
 Voda x 4
-Sok x 5
-Cokolada x 6
+Sok x 6
+Cokolada x 2
+Cips x4
